@@ -10,7 +10,7 @@ from sklearn.metrics import confusion_matrix, roc_curve, auc
 # Load trained model
 # ----------------------------
 
-model = joblib.load("model/credit_model.pkl")
+model = joblib.load("credit_model.pkl")
 
 st.title("Credit Risk Prediction System")
 st.write("Enter loan applicant information")
