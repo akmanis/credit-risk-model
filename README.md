@@ -21,11 +21,8 @@ The system analyzes borrower financial information and estimates the **risk of c
 ## Application Interface
 
 ### Credit Risk Prediction Dashboard
-
-Insert screenshot here:
-
 ```
-images/dashboard.png
+
 ```
 
 This interface allows users to enter loan applicant details such as:
