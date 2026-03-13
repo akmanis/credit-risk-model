@@ -176,13 +176,6 @@ Random Forest was selected as the final model due to higher predictive accuracy.
 
 ## Author
 
-Manish AK
-BS Economic Sciences
+Manish,
+BS Economic Sciences,
 Indian Institute of Science Education and Research (IISER) Bhopal
-
-Interested in:
-
-* Fintech
-* Machine Learning
-* Credit Risk Modeling
-* Financial Data Science
