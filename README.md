@@ -22,8 +22,6 @@ The system analyzes borrower financial information and estimates the **risk of c
 
 ### Credit Risk Prediction Dashboard
 
-Insert screenshot here:
-
 ```
 images/dashboard.png
 ```
@@ -42,8 +40,6 @@ The model then predicts the probability of loan default.
 
 ### Model Confusion Matrix
 
-Insert screenshot here:
-
 ```
 images/confusion_matrix.png
 ```
@@ -59,8 +55,6 @@ It displays True Positives, True Negatives, False Positives, and False Negatives
 
 ### ROC Curve
 
-Insert screenshot here:
-
 ```
 images/roc_curve.png
 ```
@@ -72,8 +66,6 @@ The **AUC score** indicates the overall model performance.
 ---
 
 ### Feature Importance
-
-Insert screenshot here:
 
 ```
 images/feature_importance.png
@@ -180,13 +172,6 @@ Random Forest was selected as the final model due to higher predictive accuracy.
 
 ## Author
 
-Manish AK
-BS Economic Sciences
+Manish,
+BS Economic Sciences,
 Indian Institute of Science Education and Research (IISER) Bhopal
-
-Interested in:
-
-* Fintech
-* Machine Learning
-* Credit Risk Modeling
-* Financial Data Science
