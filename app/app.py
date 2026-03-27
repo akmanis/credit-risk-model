@@ -12,6 +12,11 @@ from sklearn.metrics import confusion_matrix, roc_curve, auc
 
 model = joblib.load("credit_model.pkl")
 
+st.set_page_config(
+    page_title="Credit Risk Prediction System", 
+    layout="wide"
+)
+
 st.title("Credit Risk Prediction System")
 st.write("Enter loan applicant information")
 
